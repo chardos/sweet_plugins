@@ -2,6 +2,7 @@
 
 - [Cleave JS](https://github.com/nosir/cleave.js) - Input masking, prefixes
 - [Dropzone](http://www.dropzonejs.com/) - Drag and drop file uploading
+- [Pushy](https://github.com/christophery/pushy) - Off canvas navigation
 
 ## Sweet links
 - [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - Fake API data on can make requests to
