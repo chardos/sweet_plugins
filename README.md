@@ -14,3 +14,6 @@
 
 ## CSS tricks
 - [Full width images in limited width containers](https://css-tricks.com/full-width-containers-limited-width-parents/?utm_source=html5weekly&utm_medium=email)
+
+## Functional programming
+- [Professor Frisby's mostly adequate guide to functional programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
