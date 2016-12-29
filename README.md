@@ -11,6 +11,7 @@
 - [React at organizational scale (video)](https://vimeo.com/187454109) - Great video by Erik Wendel
 - [Visual event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim) - View event handlers in the browser
 - [CSS Guidelines](http://cssguidelin.es/) - General guidelines for CSS
+- [Algorithm Visualisations](https://bost.ocks.org/mike/algorithms/) - Awesome visualisations of algorithms by Mike Bostock
 
 ## CSS tricks
 - [Full width images in limited width containers](https://css-tricks.com/full-width-containers-limited-width-parents/?utm_source=html5weekly&utm_medium=email)
