@@ -20,3 +20,8 @@
 
 ## Functional programming
 - [Professor Frisby's mostly adequate guide to functional programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+
+## Conference videos
+- [Nordic JS](https://www.youtube.com/user/nordicjs/videos)
+- [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos)
+- [JS conf](https://www.youtube.com/user/jsconfeu/videos)
