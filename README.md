@@ -1,4 +1,4 @@
-## Sweet JS plugins
+ ## Sweet JS plugins
 
 - [Cleave JS](https://github.com/nosir/cleave.js) - Input masking, prefixes
 - [Dropzone](http://www.dropzonejs.com/) - Drag and drop file uploading
@@ -31,5 +31,6 @@
 
 ## Atom plugins
 - [File icons](https://atom.io/packages/file-icons)
+- [flow-ide](https://atom.io/packages/flow-ide) - Gives API discoverability in conjunction with `flow-typed`
 - [Linter](https://atom.io/packages/linter)
 - [linter-eslint](https://atom.io/packages/linter-eslint) - Plugs into linter to give js linting
