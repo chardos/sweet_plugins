@@ -31,6 +31,5 @@
 
 ## Atom plugins
 - [File icons](https://atom.io/packages/file-icons)
-- [Docblockr](https://atom.io/packages/docblockr) - Helpers for writing documentation
 - [Linter](https://atom.io/packages/linter)
 - [linter-eslint](https://atom.io/packages/linter-eslint) - Plugs into linter to give js linting
