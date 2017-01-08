@@ -1,4 +1,4 @@
- ## Sweet JS plugins
+## Sweet JS plugins
 
 - [Cleave JS](https://github.com/nosir/cleave.js) - Input masking, prefixes
 - [Dropzone](http://www.dropzonejs.com/) - Drag and drop file uploading
