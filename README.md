@@ -24,6 +24,10 @@
 ## Functional programming
 - [Professor Frisby's mostly adequate guide to functional programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 
+## Testing
+- [4 classifications of testing software](http://amzotti.github.io/testing/2015/03/16/what-is-the-difference-between-a-test-runner-testing-framework-assertion-library-and-a-testing-plugin/) - A good breakdown of the 4 types of testing software
+- [Comparison between Mocha and Jasmine](https://www.codementor.io/javascript/tutorial/javascript-testing-framework-comparison-jasmine-vs-mocha)
+
 ## Readability
 
 - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Guide to writing clean code in javascript by Ryan McDermott
