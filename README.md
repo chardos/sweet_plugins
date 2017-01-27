@@ -13,6 +13,9 @@
 - [2017 Google font pairings](http://fonts.greatsimple.io/rubik-roboto/)
 - [A soft murmur](http://asoftmurmur.com/) - Ambient sounds for concentration
 
+## Javascript
+- [es-next][https://github.com/hemanth/es-next] - Status of all features in all stages of the ECMAscript proposals.
+
 ## CSS
 - [CSS Guidelines](http://cssguidelin.es/) - General guidelines for CSS
 - [Full width images in limited width containers](https://css-tricks.com/full-width-containers-limited-width-parents/?utm_source=html5weekly&utm_medium=email)
