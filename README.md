@@ -40,6 +40,9 @@
 - [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos)
 - [JS conf](https://www.youtube.com/user/jsconfeu/videos)
 
+## Performance
+- [Understanding critical path rendering](https://bitsofco.de/understanding-the-critical-rendering-path/)
+
 ## Atom plugins
 - [File icons](https://atom.io/packages/file-icons)
 - [flow-ide](https://atom.io/packages/flow-ide) - Gives API discoverability in conjunction with `flow-typed`
