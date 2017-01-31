@@ -45,3 +45,7 @@
 - [flow-ide](https://atom.io/packages/flow-ide) - Gives API discoverability in conjunction with `flow-typed`
 - [Linter](https://atom.io/packages/linter)
 - [linter-eslint](https://atom.io/packages/linter-eslint) - Plugs into linter to give js linting
+
+## Fake data
+- [Lorem pixel](http://lorempixel.com/) - Can get fake images of any dimensions like `http://lorempixel.com/400/150/`
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake API endpoints for testing async calls
