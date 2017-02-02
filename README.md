@@ -26,6 +26,7 @@
 
 ## Functional programming
 - [Professor Frisby's mostly adequate guide to functional programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+- [Crocks](https://github.com/evilsoft/crocks) - A collection of well known Monadic Containers
 
 ## Testing
 - [4 classifications of testing software](http://amzotti.github.io/testing/2015/03/16/what-is-the-difference-between-a-test-runner-testing-framework-assertion-library-and-a-testing-plugin/) - A good breakdown of the 4 types of testing software
