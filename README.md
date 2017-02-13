@@ -25,7 +25,7 @@
 - [React at organizational scale (video)](https://vimeo.com/187454109) - Great video by Erik Wendel
 
 ## Functional programming
-- [Professor Frisby's mostly adequate guide to functional programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+- [Professor Frisby's mostly adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [Crocks](https://github.com/evilsoft/crocks) - A collection of well known Monadic Containers
 
 ## Testing
