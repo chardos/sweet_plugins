@@ -23,6 +23,7 @@
 ## React
 - [React SPA starter](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) - Official no-config starter by Facebook.
 - [React at organizational scale (video)](https://vimeo.com/187454109) - Great video by Erik Wendel
+- [React Router training](https://reacttraining.com/react-router/)
 
 ## Functional programming
 - [Professor Frisby's mostly adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
