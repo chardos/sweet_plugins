@@ -29,6 +29,9 @@
 - [React Router training](https://reacttraining.com/react-router/)
 - [Webpack Bin](https://www.webpackbin.com) - Nice scratchpad, has a React boilerplate to test quick little snippets
 
+## Webpack
+- [Root path imports](http://moduscreate.com/es6-es2015-import-no-relative-path-webpack/) - Avoid relative paths by adding a root path config to your webpack
+
 ## Functional programming
 - [Professor Frisby's mostly adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [Crocks](https://github.com/evilsoft/crocks) - A collection of well known Monadic Containers
