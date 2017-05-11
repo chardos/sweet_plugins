@@ -61,3 +61,9 @@
 ## Fake data
 - [Lorem pixel](http://lorempixel.com/) - Can get fake images of any dimensions like `http://lorempixel.com/400/150/`
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake API endpoints for testing async calls
+
+## Styleguides
+- [Seek](http://seek-oss.github.io/seek-style-guide/) - Using react
+- [Shopify](https://polaris.shopify.com/) - Using react, and provides sketch files
+- [Westpac group](https://gel.westpacgroup.com.au/index.html) - Lots of written content, principles, case studies
+- [Lonely Planet](http://rizzo.lonelyplanet.com) - Components for ruby on rails
