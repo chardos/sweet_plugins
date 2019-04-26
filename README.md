@@ -45,6 +45,9 @@
 
 - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Guide to writing clean code in javascript by Ryan McDermott
 
+## Tools
+- [LiceCap](https://www.cockos.com/licecap/) - Screen capture to animated gif tool
+
 ## Conference videos
 - [Nordic JS](https://www.youtube.com/user/nordicjs/videos)
 - [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos)
